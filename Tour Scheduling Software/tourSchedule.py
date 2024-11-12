@@ -1,3 +1,23 @@
+"""
+ * Personal License
+ * 
+ * Author: Sujal More
+ * Project: AutomatedTourScheduling Software
+ * 
+ * This code is provided solely for educational and
+ * personal use. Unauthorized copying, distribution,
+ * or commercial use of this code, in whole or in
+ * part, without the explicit permission of the author
+ * is strictly prohibited.
+ * 
+ * For permissions or inquiries, please contact:
+ * sujalm7002@gmail.com
+ * 
+ * © 2024 Sujal More. All rights reserved.
+"""
+
+
+
 import pandas as pd
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
