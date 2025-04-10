@@ -2,7 +2,7 @@
 
 This repository has been **archived** and is no longer maintained.
 
-🚀 The updated and actively maintained version of this project is now available at:
+🚀 The updated and actively maintained version of this repository is now available at:
 
 👉 [https://github.com/Sujal7200/Projects](https://github.com/Sujal7200/Projects)
 
